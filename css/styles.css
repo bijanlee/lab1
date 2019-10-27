@@ -67,3 +67,12 @@ iframe {
 	margin: 0 auto;
 	display:block;	
 }
+
+footer {
+	font-size: 1.2em;
+	color: red;
+}
+
+.selected {
+	font-size: 2em;
+}
