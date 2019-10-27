@@ -64,5 +64,6 @@ h1 {
 }
 
 iframe {
+	margin: 0 auto;
 	display:block;	
 }
